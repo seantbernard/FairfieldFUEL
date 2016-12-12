@@ -1,6 +1,5 @@
-# Personas for Fairfield FUEL
-
-## Persona 1:
+# **Personas for Fairfield FUEL**
+## *Persona 1:*
 Junior at Fairfield University
 
 ## Photo:
@@ -39,7 +38,7 @@ John Expects:
 ## Quote:
 "I wanna be my own boss"
 
-## Persona 2:
+## *Persona 2:*
  Prospective Investor
 
 ## Photo:
