@@ -66,5 +66,13 @@ Average day consists of:
 ## Environment:
 Mike is technically savvy, having received his undergraduate degree in Information Systems and Finance. He uses Apple products including cell phone, laptop, and tablet. Using the internet is a crucial part of Mike’s work life.
 
+## User Needs:
+Mike Expects:
+* An easy to understand website layout, navigation around the site must be simple.
+* The purpose of the site Fairfield FUEL to be stated on the main page.
+* Records of past investors who have gotten involved in businesses listed on FUEL's website.
+* Able to browse and read-up on current business plans/ideas.
+* Easy to access information regarding contacting FUEL site users about potential business interactions.
+
 ## Quote:
 “Every major business has originated from the smallest idea”
