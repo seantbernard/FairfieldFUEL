@@ -38,3 +38,34 @@ John Expects:
 
 ## Quote:
 "I wanna be my own boss"
+
+## Persona 2:
+ Prospective Investor
+
+## Photo:
+
+## Fictional Name:
+Mike Wallace
+
+## Job Title/Major:
+Former wealth management business CEO (Venture Capitalist)
+
+## Demographics:
+* 41 years old
+* Married
+* Has two children, boy and a girl
+* Lives in Fairfield, CT
+* Received undergraduate degree from Northeastern University
+
+## Goals and Tasks:
+Mike is extremely driven and a hard worker. He is detail-oriented, plans to get involved with businesses he shares a passion with. Has soft spot for Fairfield University students who are trying to start their own business.
+Average day consists of:
+*	Every morning researches stock market for any major economic changes
+*	Meet with current/potential business partners discuss company(s) matters
+* Constantly inquiring about new business ideas to get involved with
+
+## Environment:
+Mike is technically savvy, having received his undergraduate degree in Information Systems and Finance. He uses Apple products including cell phone, laptop, and tablet. Using the internet is a crucial part of Mike’s work life.
+
+## Quote:
+“Every major business has originated from the smallest idea”
