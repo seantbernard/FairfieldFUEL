@@ -76,3 +76,38 @@ Mike Expects:
 
 ## Quote:
 “Every major business has originated from the smallest idea”
+
+
+## *Persona 3:*
+Team Mentor/Advisor
+
+## Photo:
+n/a
+
+## Fictional Name:
+Rick Sanchez
+
+## Job Title/Major:
+Financial Advisor of local Business Firm
+
+## Demographics:
+* 35 Years old
+* Recently Married
+* Lives in the Stamford area
+* Received an undergraduate degree at Saint Joseph's University
+* Received a master's degree at Fordham University
+
+## Goals and Tasks:
+Rick's goals are to one day create a business of his own but to develop the skills needed to start a successful business.
+* Works extremely hard at his job and is passionate about it
+* Would like to potentially start up his own financial firm
+
+
+## Environment:
+Rick has several computer monitors set up, crucial for his daily tasks as a financial advisor. He understands technology and the importance of it, as well as the importance of his own profession.
+
+## User Needs:
+Rick's needs for the site are to find out information about the teams and their ideas to potentially find a group that he could help in full. He would also be able to find contact information for the groups and how to get involved.
+
+## Quote:
+"I want to be able to help students with an entrepreneurial passion get started on their dream while furthering developing my own skills in the process."
